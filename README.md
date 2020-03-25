@@ -1,5 +1,5 @@
 # Url Shortener
-## A Laravel Example Application
+A Laravel Example Application
 
 Can be viewed live here:
 * URL: http://mdkl.me/
